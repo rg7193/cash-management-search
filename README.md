@@ -1,2 +1,0 @@
-# BinaryRoots
-# cash-management-search
